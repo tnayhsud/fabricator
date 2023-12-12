@@ -156,4 +156,5 @@ func (f *FabricateService) CreateOrPatchResource(ctx context.Context, cfg *rest.
 		}
 	}
 	return res
+
 }
